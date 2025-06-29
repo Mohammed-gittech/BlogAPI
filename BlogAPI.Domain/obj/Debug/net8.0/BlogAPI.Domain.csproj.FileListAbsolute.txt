@@ -1,0 +1,12 @@
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/bin/Debug/net8.0/BlogAPI.Domain.deps.json
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/bin/Debug/net8.0/BlogAPI.Domain.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/bin/Debug/net8.0/BlogAPI.Domain.pdb
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.AssemblyInfoInputs.cache
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.AssemblyInfo.cs
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/refint/BlogAPI.Domain.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.pdb
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/ref/BlogAPI.Domain.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Domain/obj/Debug/net8.0/BlogAPI.Domain.csproj.AssemblyReference.cache

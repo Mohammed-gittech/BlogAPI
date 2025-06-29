@@ -1,0 +1,15 @@
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/bin/Debug/net8.0/BlogAPI.Application.deps.json
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/bin/Debug/net8.0/BlogAPI.Application.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/bin/Debug/net8.0/BlogAPI.Application.pdb
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/bin/Debug/net8.0/BlogAPI.Domain.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/bin/Debug/net8.0/BlogAPI.Domain.pdb
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.csproj.AssemblyReference.cache
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.AssemblyInfoInputs.cache
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.AssemblyInfo.cs
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.csproj.CoreCompileInputs.cache
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI..039527A1.Up2Date
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/refint/BlogAPI.Application.dll
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/BlogAPI.Application.pdb
+/Users/mohammedabd/Desktop/Projacts/BlogAPI/BlogAPI.Application/obj/Debug/net8.0/ref/BlogAPI.Application.dll
