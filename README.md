@@ -40,8 +40,8 @@ BlogAPI/
 
 ## 🔐 Authentication Endpoints
 
-- `POST /api/auth/register` → Register new users
-- `POST /api/auth/login` → Get JWT token
+- `POST /api/Account/register` → Register new users
+- `POST /api/Account/login` → Get JWT token
 
 Authenticated routes require Bearer token in the `Authorization` header.
 
@@ -51,7 +51,7 @@ Authenticated routes require Bearer token in the `Authorization` header.
 
 **Add a comment** (requires login):
 `http
-POST /api/Account
+POST /api/comment
 Authorization: Bearer <your_token>
 
 {
