@@ -10,7 +10,6 @@
 - ✅ Add and manage comments per post
 - ✅ User registration and login
 - ✅ JWT-based authentication
-- ✅ Role-based access control (`User`, `Author`, `Admin`)
 - ✅ Clean 3-Tier Architecture
 - ✅ SQL Server as the database
 - ✅ Developed and tested on macOS with Rider
