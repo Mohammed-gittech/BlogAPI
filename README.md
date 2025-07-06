@@ -49,7 +49,7 @@ Authenticated routes require Bearer token in the `Authorization` header.
 ## 📬 Example API Usage
 
 **Add a comment** (requires login):
-`http
+```http
 POST /api/comment
 Authorization: Bearer <your_token>
 
@@ -57,13 +57,13 @@ Authorization: Bearer <your_token>
 "content": "This post is awesome!",
 "postId": 1
 }
-
-`bash
+```
+```bash
 git clone https://github.com/Mohammed-gittech/BlogAPI.git
 cd BlogAPI
 dotnet ef database update
 dotnet run --project BlogAPI
-
+```
 ## 👨‍💻 Developed by
 
 **Mohammed Abd** — Junior Backend Developer  
